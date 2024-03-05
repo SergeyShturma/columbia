@@ -266,16 +266,18 @@ header {
   justify-content: center;
   align-items: center;
   gap: 12px;
-  margin-top: 25px;
+  margin-top: 0;
 }
 
 .link_phone_wrapper {
-  width: 180px;
-  height: 28px;
-  font-size: 22px;
-  font-weight: 700;
-  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
+  width: 180px;
+  /* height: 28px; */
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.12;
+  text-decoration: none;
   color: rgb(206, 36, 76);
   border: 1px solid rgb(154, 205, 50, 0);
   border-radius: 40px;
@@ -290,13 +292,13 @@ header {
 
 @media screen and (min-width: 768px) {
   .phone_container {
-    margin-top: 40px;
+    margin-top: 20px;
   }
 
   .link_phone_wrapper {
-    font-size: 26px;
+    font-size: 24px;
     width: 220px;
-    height: 32px;
+    /* height: 32px; */
   }
 }
 

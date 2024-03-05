@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import DropDown from 'hooks/DropDown/DropDown';
 import SortingWomen from 'hooks/SortingWomen';
 
-const ShirtsWomenPage = () => {
+const WomenPage = () => {
   const [sortDir, setSortDir] = useState('default');
 
   return (
@@ -14,4 +14,4 @@ const ShirtsWomenPage = () => {
   );
 };
 
-export default ShirtsWomenPage;
+export default WomenPage;

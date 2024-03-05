@@ -30,7 +30,7 @@ export const Header = () => {
             className={({ isActive }) =>
               `${s.link} ${isActive ? s.active : ''}`
             }
-            to="/ShirtsWomenPage"
+            to="/WomenPage"
           >
             <IoWomanOutline className={s.link_icon_women} />
             <p className={s.link_text}>Жіночі</p>

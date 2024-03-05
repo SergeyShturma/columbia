@@ -1,4 +1,4 @@
-import s from '../pages/ShirtsWomenPage/ShirtsWomenPage.module.css';
+import s from '../pages/WomenPage/WomenPage.module.css';
 
 const ShirtMarkup = ({ sortedItems }) => {
   return (
