@@ -16,8 +16,8 @@ const DropDown = ({ setSortDir }) => {
         onChange={e => setSortDir(e.target.value)}
       >
         <option value="default">за популярністю </option>
-        <option value="lowtohigh">ціна: low to high </option>
-        <option value="hightolow">ціна: high to low </option>
+        <option value="lowtohigh">ціна: від дешевих </option>
+        <option value="hightolow">ціна: від дорогих </option>
       </select>
     </div>
   );
