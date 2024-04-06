@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/columbia/static/css/main.414f84cd.css",
-    "main.js": "/columbia/static/js/main.61e455a1.js",
+    "main.js": "/columbia/static/js/main.df9d92a1.js",
     "static/css/389.38120d6b.chunk.css": "/columbia/static/css/389.38120d6b.chunk.css",
     "static/js/389.a4afd0ad.chunk.js": "/columbia/static/js/389.a4afd0ad.chunk.js",
     "static/css/338.38120d6b.chunk.css": "/columbia/static/css/338.38120d6b.chunk.css",
-    "static/js/338.4b7d4265.chunk.js": "/columbia/static/js/338.4b7d4265.chunk.js",
+    "static/js/338.bf40a6dd.chunk.js": "/columbia/static/js/338.bf40a6dd.chunk.js",
     "static/js/977.a06a40bd.chunk.js": "/columbia/static/js/977.a06a40bd.chunk.js",
     "static/media/hero-image.gif": "/columbia/static/media/hero-image.6d1ac34ac03c894b40e6.gif",
     "static/media/women6.jpg": "/columbia/static/media/women6.01c0f2dc9e6002f0e73d.jpg",
@@ -17,6 +17,7 @@
     "static/media/portfolio-img-23.jpg": "/columbia/static/media/portfolio-img-23.ceabbb930e42bb0f9320.jpg",
     "static/media/portfolio-img-22.jpg": "/columbia/static/media/portfolio-img-22.fc79900c8a5a29ced6f0.jpg",
     "static/media/portfolio-img-2.jpg": "/columbia/static/media/portfolio-img-2.51eae79373e1e6bbe810.jpg",
+    "static/media/portfolio-img-24.jpg": "/columbia/static/media/portfolio-img-24.725dc99d36090434846c.jpg",
     "static/media/women5.jpg": "/columbia/static/media/women5.7c9f80843b2996adc658.jpg",
     "static/media/portfolio-img-18.jpg": "/columbia/static/media/portfolio-img-18.ae4fb840559dac4593e5.jpg",
     "static/media/portfolio-img-1.jpg": "/columbia/static/media/portfolio-img-1.fceb94e0673790cc6529.jpg",
@@ -31,15 +32,15 @@
     "static/media/Amazon-logo.jpg": "/columbia/static/media/Amazon-logo.c9025429d11b885452ea.jpg",
     "index.html": "/columbia/index.html",
     "main.414f84cd.css.map": "/columbia/static/css/main.414f84cd.css.map",
-    "main.61e455a1.js.map": "/columbia/static/js/main.61e455a1.js.map",
+    "main.df9d92a1.js.map": "/columbia/static/js/main.df9d92a1.js.map",
     "389.38120d6b.chunk.css.map": "/columbia/static/css/389.38120d6b.chunk.css.map",
     "389.a4afd0ad.chunk.js.map": "/columbia/static/js/389.a4afd0ad.chunk.js.map",
     "338.38120d6b.chunk.css.map": "/columbia/static/css/338.38120d6b.chunk.css.map",
-    "338.4b7d4265.chunk.js.map": "/columbia/static/js/338.4b7d4265.chunk.js.map",
+    "338.bf40a6dd.chunk.js.map": "/columbia/static/js/338.bf40a6dd.chunk.js.map",
     "977.a06a40bd.chunk.js.map": "/columbia/static/js/977.a06a40bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.414f84cd.css",
-    "static/js/main.61e455a1.js"
+    "static/js/main.df9d92a1.js"
   ]
 }
