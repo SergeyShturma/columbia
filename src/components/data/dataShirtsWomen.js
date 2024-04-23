@@ -14,10 +14,10 @@ const dataShirtsWomen = [
     id: 2,
   },
   {
-    price: 3550,
-    size: ['XXL'],
+    price: 0,
+    size: ['Розпродано!'],
     image: [require('../../images/women/women3.jpg')],
-    link: 'https://www.kidstaff.com.ua/tema-33452282.html',
+    link: '',
     id: 3,
   },
   {
